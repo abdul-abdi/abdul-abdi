@@ -20,18 +20,25 @@
 ## 🛠️ **Arsenal** 🛠️
 
 **Product:** 
+<br/>
 <img src="https://img.shields.io/badge/Product_Strategy-blue?style=for-the-badge&logo=producthunt" alt="Product Strategy"/>
 <img src="https://img.shields.io/badge/User_Research-blue?style=for-the-badge&logo=googleanalytics" alt="User Research"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 <br/>
+
+
 **Code & Chains:** 
+<br/>
 <img src="https://img.shields.io/badge/Solidity-E8E8E8?style=for-the-badge&logo=solidity&logoColor=black" alt="Solidity"/>
 <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <br/>
+
+
 **Web & Data:** 
+<br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js"/>
