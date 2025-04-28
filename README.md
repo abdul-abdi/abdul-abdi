@@ -52,8 +52,6 @@
 
 ## 📜 **Featured Quests** 📜
 
-*(See Pinned Repositories Above for More!)*
-
 <p align="center">
   <a href="https://github.com/abdul-abdi/vibeui">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-abdi&repo=vibeui&theme=tokyonight&hide_border=true&show_icons=true" alt="VibeUI Repo Card"/>
