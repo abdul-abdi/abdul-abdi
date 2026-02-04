@@ -3,6 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Abdullahi%20Abdi&fontAlign=50&fontAlignY=40&color=0:0f0f0f,50:1a1a2e,100:16213e&fontColor=ffffff&fontSize=64&animation=fadeIn&desc=Agent%20Engineer%20%E2%80%A2%20Context%20Engineering%20%E2%80%A2%20AI%20Agent%20Design%20%F0%9F%87%B0%F0%9F%87%AA&descAlignY=70&descSize=16" alt="Abdullahi Abdi - Agent Engineer"/>
 </p>
 
+<!-- Personal Site -->
+<p align="center">
+  <a href="https://abdullahiabdi.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-abdullahiabdi.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal Site"/>
+  </a>
+</p>
+
 <!-- Animated Tagline -->
 <p align="center">
   <a href="https://git.io/typing-svg">
