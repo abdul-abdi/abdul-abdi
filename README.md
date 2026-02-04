@@ -7,8 +7,6 @@
 <p align="center">
   <a href="#about">About</a> •
   <a href="#tech-stack">Tech Stack</a> •
-  <a href="#featured-projects">Projects</a> •
-  <a href="#stats">Stats</a>
 </p>
 
 <!-- Animated Tagline -->
@@ -59,43 +57,6 @@ Agent Engineer focused on designing and building AI agents that solve real probl
 
 ---
 
-## Featured Projects
-
-<p align="center">
-  <a href="https://github.com/abdul-abdi/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-abdi&repo=portfolio&theme=tokyonight&hide_border=true&show_icons=true" alt="Kinetic Narrative Portfolio"/>
-  </a>
-  <a href="https://github.com/abdul-abdi/vibeui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-abdi&repo=vibeui&theme=tokyonight&hide_border=true&show_icons=true" alt="VibeUI"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/abdul-abdi/blockcreative">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-abdi&repo=blockcreative&theme=tokyonight&hide_border=true&show_icons=true" alt="BlockCreative"/>
-  </a>
-  <a href="https://github.com/abdul-abdi/mindscape">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-abdi&repo=mindscape&theme=tokyonight&hide_border=true&show_icons=true" alt="Mindscape"/>
-  </a>
-</p>
-
----
-
-## Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdul-abdi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=abdul-abdi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-abdi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
----
-
 <p align="center">
   <i>Building the future of human-AI collaboration, one agent at a time.</i>
-</p>
-
-<!-- Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f0f0f,50:1a1a2e,100:16213e" alt="Footer Wave"/>
 </p>
